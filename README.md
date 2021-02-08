@@ -12,4 +12,5 @@ Used to pre-process the data. Including the following tasks:
 ### Power BI
 Used to further data modeling and visualization. Please refer to next slides for the
 visualizations.
+
 Data modeling: 
