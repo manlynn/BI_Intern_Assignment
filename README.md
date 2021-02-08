@@ -14,3 +14,7 @@ Used to further data modeling and visualization. Please refer to next slides for
 visualizations.
 
 Data modeling: 
+- Grouped the data by User ID and counted the purchase ID to get how many times each user purchased during May-Oct 2020. The processed tables were named as ”Restaurant_Purchase Times” and ”Retail_Purchase Times”
+- Several measures/calculations were created.
+
+
