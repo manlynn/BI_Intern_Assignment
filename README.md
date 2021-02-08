@@ -24,8 +24,7 @@ Data modeling:
 | New count |To calculate the No. of new user during the period.
 | New user kept overview |To calculate the No. of users who did another purchase after their first purchase during the period.
 
+
 ## 3. Visualization
 
 - A donut chart is presenting the percentage of kept and lost users during May – Oct 2020 per product line
-![alt text] (https://github.com/manlynn/Retention_Rate_PowerBI/blob/main/Donut%20Chart.JPG)
-
