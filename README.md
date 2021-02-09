@@ -10,8 +10,7 @@ Used to pre-process the data. Including the following tasks:
 - Excluded the users whose first purchases were not between May – Oct 2020 from the purchase information, namely the purchases.csv file.
 
 ### Power BI
-Used to further data modeling and visualization. Please refer to next slides for the
-visualizations.
+Used to further data modeling and visualization. Please refer to next chapter for the visualizations.
 
 Data modeling: 
 - Grouped the data by User ID and counted the purchase ID to get how many times each user purchased during May-Oct 2020. The processed tables were named as ”Restaurant_Purchase Times” and ”Retail_Purchase Times”
