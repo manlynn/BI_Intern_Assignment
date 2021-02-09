@@ -31,5 +31,11 @@ Data modeling:
 ![alt text](https://github.com/manlynn/Retention_Rate_PowerBI/blob/main/images/donut%20chart.JPG)
 
 - The bar chart is presenting the overall retention rate . 
+![alt text](https://github.com/manlynn/Retention_Rate_PowerBI/blob/main/images/bar%20chart.JPG)
+
 - The area chart is presenting the monthly retention dynamically.
+![alt text](https://github.com/manlynn/Retention_Rate_PowerBI/blob/main/images/area%20chart_1.JPG)
+
+![alt text](https://github.com/manlynn/Retention_Rate_PowerBI/blob/main/images/area%20chart_2.JPG)
+
 
