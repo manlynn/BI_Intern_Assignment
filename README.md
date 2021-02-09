@@ -27,7 +27,7 @@ Data modeling:
 
 ## 3. Visualization
 
-- A donut chart is presenting the percentage of kept and lost users during May – Oct 2020 per product line:
+- A donut chart is presenting the percentage of kept and lost users during May – Oct 2020 per product line
 ![alt text](https://github.com/manlynn/Retention_Rate_PowerBI/blob/main/images/donut%20chart.JPG)
 
 - The bar chart is presenting the overall retention rate . 
